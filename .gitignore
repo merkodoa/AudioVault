@@ -1,0 +1,17 @@
+# Pliki systemowe i tymczasowe Pythona
+__pycache__/
+*.pyc
+
+# Wirtualne środowisko
+venv/
+env/
+
+# Pliki PyInstallera (jeśli robiłeś .exe)
+build/
+dist/
+*.spec
+
+# Pliki pobrane przez Twoją aplikację (mp3)
+*.mp3
+*.webm
+*.m4a
