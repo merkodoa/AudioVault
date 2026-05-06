@@ -19,7 +19,7 @@ AudioVault is a lightweight, modern desktop application written in Python that a
 ## 🚀 How to Run (For Developers)
 
 Clone this repository:
-   git clone [https://github.com/YourUsername/AudioVault.git](https://github.com/YourUsername/AudioVault.git) 
+   git clone [https://github.com/merkodoa/AudioVault.git](https://github.com/merkodoa/AudioVault.git) 
 
 Navigate to the directory and install the required dependencies:
     pip install customtkinter yt-dlp
@@ -48,7 +48,7 @@ AudioVault to lekka, nowoczesna aplikacja desktopowa napisana w Pythonie, pozwal
 ## 🚀 Jak uruchomić (dla deweloperów)
 
 Sklonuj repozytorium:
-   git clone [https://github.com/TwojNick/AudioVault.git](https://github.com/TwojNick/AudioVault.git)
+   git clone [https://github.com//merkodoa.git](https://github.com/merkodoa/AudioVault.git)
 
 Przejdź do folderu i zainstaluj wymagane biblioteki:
     pip install customtkinter yt-dlp
