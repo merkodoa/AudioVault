@@ -5,6 +5,7 @@ ENG:
 AudioVault is a lightweight, modern desktop application written in Python that allows you to quickly download high-quality audio tracks (MP3) directly from video and audio URLs.
 
 ## ✨ Key Features
+* **Audio & Video Support:** Easily toggle between extracting audio (MP3) or downloading the highest quality video (MP4).
 * **Simple & Modern UI:** Sleek design with automatic Dark Mode support, built with the CustomTkinter library.
 * **Background Downloading:** The interface remains fully responsive during downloads thanks to multithreading.
 * **Custom Save Location:** Easily browse and choose the exact folder where you want to save your files.
@@ -27,13 +28,14 @@ Navigate to the directory and install the required dependencies:
 Make sure you have FFmpeg installed on your system or placed in the script directory.
 
 Run the application: 
-    python main.py
+    python yttomp3.py
 
 POL:
 
 AudioVault to lekka, nowoczesna aplikacja desktopowa napisana w Pythonie, pozwalająca na szybkie pobieranie ścieżek dźwiękowych w najwyższej jakości (MP3) bezpośrednio z linków z serwisów wideo.
 
 ## ✨ Główne funkcje
+* **Wsparcie dla formatów audio oraz wideo:** Swobodna zmiana między wydzieleniem plików audio (mp3) oraz pobraniem plików wideo w najwyższej jakości (mp4).
 * **Prosty interfejs:** Nowoczesny wygląd z trybem ciemnym (Dark Mode) dzięki bibliotece CustomTkinter.
 * **Pobieranie w tle:** Interfejs nie zacina się podczas pobierania dzięki wykorzystaniu wielowątkowości.
 * **Dowolny folder zapisu:** Użytkownik sam wybiera, gdzie zapisać pliki.
@@ -56,4 +58,4 @@ Przejdź do folderu i zainstaluj wymagane biblioteki:
 Upewnij się, że masz zainstalowany FFmpeg w systemie (lub w folderze ze skryptem).
 
 Uruchom aplikację:
-    python main.py
+    python yttomp3.py
